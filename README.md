@@ -17,4 +17,4 @@
 - Lone Survivor
 
 ## Contact
-- For any inquiries or assistance, feel free to join the [EFT Educational Resources Discord Server](https://discord.gg/hxUhJHWuap).
+- For any inquiries or assistance, feel free to join the [DMA Educational Resources Discord Server](https://discord.gg/hxUhJHWuap).
