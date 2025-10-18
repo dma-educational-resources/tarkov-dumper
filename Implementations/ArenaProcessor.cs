@@ -3832,7 +3832,7 @@ namespace TarkovDumper.Implementations
 
                 StructureGenerator nestedStruct = new(name);
 
-                const string className = "EFT.EftNetworkGame";
+                const string className = "EFT.CommonNetworkGame`3";
                 string entity;
 
                 {
